@@ -56,32 +56,32 @@ weather-mood-app/
 
 1. Clone o repositório:
 
-  ```bash
-  git clone https://github.com/RayssaSantosL/Weather-mood-app.git
-  cd Weather-mood-app
-  ```
+```bash
+git clone https://github.com/RayssaSantosL/Weather-mood-app.git
+cd Weather-mood-app
+```
 
 2. Instale as dependências:
    
-  ```
-  npm install
-  ```
+```
+npm install
+```
 
 3. Crie um arquivo ```.env``` na raiz com sua API Key do OpenWeatherMap:
    
-  ``` VITE_WEATHER_API_KEY=YOUR_API_KEY ```
+``` VITE_WEATHER_API_KEY=YOUR_API_KEY ```
 
 4. Rode o app:
    
-   ```
-   npm run dev
-   ```
+```
+npm run dev
+```
 
 5. Abra no seu navegador:
 
-   ```
-   http://localhost:5173
-   ```
+```
+http://localhost:5173
+```
 
 
 ##  📬 Contribuições
