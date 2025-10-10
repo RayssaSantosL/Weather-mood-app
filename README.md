@@ -92,9 +92,5 @@ Basta abrir uma issue ou um pull request.
 
 ##  💖 Feito com ❤️ por Rayssa Santos
 ---
-Se você quiser, eu posso criar **uma versão ainda mais “wow”**, com **badges de npm, Vite, React e link pro deploy**, que deixa o README com cara de portfólio profissional.  
-
-Quer que eu faça essa versão premium também?
-
 
    
