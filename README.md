@@ -31,6 +31,7 @@
 
 ## 📂 Estrutura do projeto
 
+```
 weather-mood-app/
 ├── src/
 │ ├── components/ # Componentes React
@@ -47,6 +48,7 @@ weather-mood-app/
 ├── package.json
 └── vite.config.js
 
+```
 
 ---
 
